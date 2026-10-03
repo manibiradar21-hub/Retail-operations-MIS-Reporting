@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Sales_Channel,Product,Category,Units_Sold,Unit_Price,Unit_Cost,Order_Status,Sales_Amount,Cost_Amount,Profit
+ORD10001,2025-01-17,North,Marketplace,USB Hub,Displays,8,5999,150,Delivered,47992,1200,46792
+ORD10002,2025-05-21,West,Marketplace,Keyboard,Accessories,2,2499,1400,Delivered,4998,2800,2198
+ORD10003,2025-04-29,Central,Retail Store,Wireless Mouse,Peripherals,9,8999,400,Cancelled,80991,3600,77391
+ORD10004,2025-03-21,Central,Marketplace,Keyboard,Peripherals,2,8999,250,Delivered,17998,500,17498
+ORD10005,2025-03-20,South,Online,USB Hub,Displays,1,2499,150,Delivered,2499,150,2349
+ORD10006,2025-06-05,East,Marketplace,Wireless Mouse,Accessories,2,799,5500,Returned,1598,11000,-9402
+ORD10007,2025-01-16,East,Marketplace,Docking Station,Peripherals,6,2499,3500,Delivered,14994,21000,-6006
+ORD10008,2025-05-07,South,Retail Store,Monitor,Accessories,7,799,3500,Delivered,5593,24500,-18907
+ORD10009,2025-02-06,South,Marketplace,Webcam,Displays,5,2499,150,Delivered,12495,750,11745
+ORD10010,2025-01-18,South,Retail Store,Headset,Peripherals,2,5999,400,Delivered,11998,800,11198
+ORD10011,2025-04-06,Central,Online,Keyboard,Peripherals,3,799,5500,Delivered,2397,16500,-14103
+ORD10012,2025-06-26,West,Marketplace,Wireless Mouse,Peripherals,10,1299,1400,Delivered,12990,14000,-1010
+ORD10013,2025-05-14,Central,Online,Headset,Accessories,11,299,150,Delivered,3289,1650,1639
+ORD10014,2025-05-18,Central,Online,Keyboard,Displays,9,5999,150,Delivered,53991,1350,52641
+ORD10015,2025-05-10,Central,Retail Store,Wireless Mouse,Peripherals,2,1299,250,Delivered,2598,500,2098
+ORD10016,2025-05-23,North,Marketplace,Docking Station,Accessories,10,1299,5500,Delivered,12990,55000,-42010
+ORD10017,2025-04-03,Central,Retail Store,Monitor,Peripherals,8,1299,250,Delivered,10392,2000,8392
+ORD10018,2025-01-24,North,Retail Store,Laptop Stand,Displays,6,499,5500,Delivered,2994,33000,-30006
+ORD10019,2025-06-01,East,Online,Monitor,Displays,2,2499,1400,Delivered,4998,2800,2198
+ORD10020,2025-03-23,East,Online,Monitor,Peripherals,11,5999,5500,Delivered,65989,60500,5489
+ORD10021,2025-04-01,South,Online,Webcam,Accessories,5,799,3500,Delivered,3995,17500,-13505
+ORD10022,2025-03-09,North,Online,Headset,Peripherals,1,299,400,Delivered,299,400,-101
+ORD10023,2025-02-03,North,Marketplace,Wireless Mouse,Peripherals,3,799,3500,Delivered,2397,10500,-8103
+ORD10024,2025-06-17,Central,Marketplace,Wireless Mouse,Peripherals,5,499,250,Delivered,2495,1250,1245
+ORD10025,2025-05-22,South,Marketplace,USB Hub,Accessories,1,799,400,Delivered,799,400,399
+ORD10026,2025-04-27,South,Online,Laptop Stand,Peripherals,4,2499,250,Delivered,9996,1000,8996
+ORD10027,2025-03-14,Central,Online,Keyboard,Peripherals,6,299,150,Delivered,1794,900,894
+ORD10028,2025-05-29,North,Online,Wireless Mouse,Displays,11,5999,150,Delivered,65989,1650,64339
+ORD10029,2025-04-09,Central,Retail Store,Laptop Stand,Peripherals,1,499,250,Delivered,499,250,249
+ORD10030,2025-03-22,Central,Retail Store,Docking Station,Peripherals,7,8999,150,Delivered,62993,1050,61943
+ORD10031,2025-03-23,East,Retail Store,Laptop Stand,Peripherals,11,5999,400,Delivered,65989,4400,61589
+ORD10032,2025-02-11,North,Online,Laptop Stand,Accessories,9,499,150,Delivered,4491,1350,3141
+ORD10033,2025-01-17,North,Marketplace,Docking Station,Accessories,11,1299,150,Delivered,14289,1650,12639
+ORD10034,2025-04-11,South,Online,Wireless Mouse,Displays,2,299,5500,Delivered,598,11000,-10402
+ORD10035,2025-06-10,East,Online,Webcam,Displays,9,299,150,Delivered,2691,1350,1341
+ORD10036,2025-01-12,North,Marketplace,Laptop Stand,Displays,11,8999,150,Delivered,98989,1650,97339
+ORD10037,2025-06-05,East,Marketplace,Wireless Mouse,Peripherals,4,5999,150,Returned,23996,600,23396
+ORD10038,2025-05-30,North,Online,Laptop Stand,Accessories,6,499,150,Delivered,2994,900,2094
+ORD10039,2025-02-20,East,Retail Store,Headset,Displays,6,499,700,Delivered,2994,4200,-1206
+ORD10040,2025-04-25,North,Marketplace,USB Hub,Peripherals,6,499,3500,Delivered,2994,21000,-18006
+ORD10041,2025-01-30,West,Marketplace,Monitor,Accessories,4,799,3500,Delivered,3196,14000,-10804
+ORD10042,2025-05-18,North,Marketplace,Wireless Mouse,Displays,11,799,1400,Delivered,8789,15400,-6611
+ORD10043,2025-05-07,North,Retail Store,Laptop Stand,Displays,11,799,150,Delivered,8789,1650,7139
+ORD10044,2025-03-06,North,Retail Store,USB Hub,Displays,5,1299,3500,Returned,6495,17500,-11005
+ORD10045,2025-01-13,Central,Marketplace,Wireless Mouse,Accessories,9,499,150,Cancelled,4491,1350,3141
+ORD10046,2025-06-25,North,Online,USB Hub,Displays,5,8999,1400,Delivered,44995,7000,37995
+ORD10047,2025-03-22,East,Online,Headset,Peripherals,9,5999,400,Delivered,53991,3600,50391
+ORD10048,2025-06-11,East,Retail Store,Webcam,Peripherals,7,5999,5500,Delivered,41993,38500,3493
+ORD10049,2025-05-03,East,Marketplace,Monitor,Displays,6,499,400,Delivered,2994,2400,594
+ORD10050,2025-05-21,West,Online,Laptop Stand,Peripherals,2,2499,1400,Delivered,4998,2800,2198
+ORD10051,2025-05-18,Central,Retail Store,Keyboard,Accessories,8,5999,700,Cancelled,47992,5600,42392
+ORD10052,2025-02-05,South,Retail Store,Webcam,Accessories,4,499,700,Delivered,1996,2800,-804
+ORD10053,2025-03-07,Central,Retail Store,USB Hub,Peripherals,3,5999,5500,Delivered,17997,16500,1497
+ORD10054,2025-03-26,South,Marketplace,USB Hub,Displays,3,799,1400,Delivered,2397,4200,-1803
+ORD10055,2025-04-01,Central,Online,Monitor,Displays,11,5999,400,Delivered,65989,4400,61589
+ORD10056,2025-01-08,East,Marketplace,Wireless Mouse,Peripherals,2,1299,700,Delivered,2598,1400,1198
+ORD10057,2025-04-09,West,Retail Store,Docking Station,Displays,9,5999,1400,Cancelled,53991,12600,41391
+ORD10058,2025-01-28,Central,Marketplace,Webcam,Displays,10,499,400,Delivered,4990,4000,990
+ORD10059,2025-05-15,West,Retail Store,Docking Station,Peripherals,1,799,250,Delivered,799,250,549
+ORD10060,2025-05-04,Central,Online,Webcam,Peripherals,7,499,700,Delivered,3493,4900,-1407
+ORD10061,2025-06-16,East,Marketplace,Keyboard,Displays,7,499,150,Returned,3493,1050,2443
+ORD10062,2025-05-15,North,Marketplace,Keyboard,Peripherals,4,799,250,Delivered,3196,1000,2196
+ORD10063,2025-03-08,East,Online,Wireless Mouse,Accessories,8,799,400,Delivered,6392,3200,3192
+ORD10064,2025-06-25,North,Marketplace,Docking Station,Displays,5,299,3500,Delivered,1495,17500,-16005
+ORD10065,2025-03-16,Central,Marketplace,USB Hub,Peripherals,5,2499,3500,Delivered,12495,17500,-5005
+ORD10066,2025-02-28,South,Retail Store,Monitor,Peripherals,5,1299,250,Returned,6495,1250,5245
+ORD10067,2025-06-13,South,Marketplace,Docking Station,Displays,9,5999,400,Delivered,53991,3600,50391
+ORD10068,2025-03-09,South,Retail Store,USB Hub,Displays,7,2499,250,Cancelled,17493,1750,15743
+ORD10069,2025-01-14,West,Retail Store,Docking Station,Accessories,5,499,3500,Delivered,2495,17500,-15005
+ORD10070,2025-03-26,East,Online,Docking Station,Peripherals,11,299,250,Delivered,3289,2750,539
+ORD10071,2025-05-25,Central,Marketplace,Laptop Stand,Accessories,9,799,3500,Delivered,7191,31500,-24309
+ORD10072,2025-02-04,East,Online,Keyboard,Peripherals,11,1299,3500,Delivered,14289,38500,-24211
+ORD10073,2025-03-25,South,Marketplace,Headset,Peripherals,9,499,1400,Delivered,4491,12600,-8109
+ORD10074,2025-01-24,North,Retail Store,Webcam,Peripherals,5,5999,400,Delivered,29995,2000,27995
+ORD10075,2025-05-05,North,Retail Store,Wireless Mouse,Displays,9,2499,5500,Delivered,22491,49500,-27009
+ORD10076,2025-03-28,South,Online,Keyboard,Peripherals,4,5999,1400,Delivered,23996,5600,18396
+ORD10077,2025-03-01,Central,Marketplace,USB Hub,Peripherals,3,299,1400,Cancelled,897,4200,-3303
+ORD10078,2025-02-11,East,Online,Webcam,Peripherals,5,5999,3500,Delivered,29995,17500,12495
+ORD10079,2025-04-13,Central,Retail Store,Laptop Stand,Accessories,11,499,5500,Delivered,5489,60500,-55011
+ORD10080,2025-05-02,North,Marketplace,USB Hub,Accessories,7,1299,150,Delivered,9093,1050,8043
+ORD10081,2025-06-20,North,Marketplace,Keyboard,Displays,5,1299,5500,Delivered,6495,27500,-21005
+ORD10082,2025-03-21,Central,Marketplace,Wireless Mouse,Accessories,6,5999,3500,Delivered,35994,21000,14994
+ORD10083,2025-01-30,North,Marketplace,USB Hub,Accessories,4,499,250,Delivered,1996,1000,996
+ORD10084,2025-05-31,North,Retail Store,Monitor,Displays,8,499,400,Delivered,3992,3200,792
+ORD10085,2025-04-24,East,Online,Headset,Accessories,4,799,3500,Delivered,3196,14000,-10804
+ORD10086,2025-05-07,Central,Marketplace,Keyboard,Peripherals,7,799,250,Delivered,5593,1750,3843
+ORD10087,2025-01-18,West,Marketplace,Webcam,Displays,5,499,700,Delivered,2495,3500,-1005
+ORD10088,2025-02-26,North,Marketplace,Laptop Stand,Peripherals,4,499,1400,Delivered,1996,5600,-3604
+ORD10089,2025-05-19,Central,Retail Store,Webcam,Accessories,11,499,1400,Delivered,5489,15400,-9911
+ORD10090,2025-05-31,Central,Online,Laptop Stand,Accessories,4,1299,5500,Delivered,5196,22000,-16804
+ORD10091,2025-03-20,Central,Retail Store,Headset,Displays,1,799,150,Delivered,799,150,649
+ORD10092,2025-05-26,Central,Retail Store,Keyboard,Accessories,5,799,400,Delivered,3995,2000,1995
+ORD10093,2025-06-02,South,Marketplace,Monitor,Displays,6,5999,5500,Delivered,35994,33000,2994
+ORD10094,2025-03-12,Central,Retail Store,Laptop Stand,Accessories,2,499,700,Delivered,998,1400,-402
+ORD10095,2025-06-12,South,Online,Headset,Accessories,4,8999,250,Returned,35996,1000,34996
+ORD10096,2025-02-22,Central,Online,Wireless Mouse,Displays,2,5999,400,Delivered,11998,800,11198
+ORD10097,2025-02-13,East,Marketplace,Headset,Displays,6,499,400,Delivered,2994,2400,594
+ORD10098,2025-05-04,West,Marketplace,Headset,Displays,8,799,700,Delivered,6392,5600,792
+ORD10099,2025-04-26,West,Online,Webcam,Displays,11,499,250,Delivered,5489,2750,2739
+ORD10100,2025-01-26,West,Retail Store,Headset,Accessories,5,499,1400,Delivered,2495,7000,-4505
+ORD10101,2025-05-31,West,Retail Store,Keyboard,Displays,10,799,700,Delivered,7990,7000,990
+ORD10102,2025-02-06,West,Retail Store,Headset,Displays,3,299,1400,Delivered,897,4200,-3303
+ORD10103,2025-05-26,West,Marketplace,Webcam,Accessories,9,299,250,Delivered,2691,2250,441
+ORD10104,2025-01-02,North,Online,Keyboard,Accessories,7,1299,1400,Returned,9093,9800,-707
+ORD10105,2025-05-25,Central,Online,Laptop Stand,Displays,9,2499,5500,Delivered,22491,49500,-27009
+ORD10106,2025-05-23,East,Online,Docking Station,Accessories,9,799,150,Delivered,7191,1350,5841
+ORD10107,2025-05-22,South,Online,Wireless Mouse,Displays,6,8999,400,Delivered,53994,2400,51594
+ORD10108,2025-05-01,East,Marketplace,USB Hub,Accessories,3,799,1400,Cancelled,2397,4200,-1803
+ORD10109,2025-03-27,Central,Marketplace,Wireless Mouse,Accessories,6,8999,1400,Delivered,53994,8400,45594
+ORD10110,2025-05-08,Central,Online,Wireless Mouse,Accessories,10,499,1400,Delivered,4990,14000,-9010
+ORD10111,2025-02-20,Central,Retail Store,Webcam,Accessories,11,1299,700,Delivered,14289,7700,6589
+ORD10112,2025-05-22,East,Online,Wireless Mouse,Displays,11,5999,1400,Delivered,65989,15400,50589
+ORD10113,2025-04-11,West,Online,Headset,Displays,2,299,1400,Delivered,598,2800,-2202
+ORD10114,2025-03-25,South,Online,Headset,Displays,7,8999,150,Delivered,62993,1050,61943
+ORD10115,2025-04-02,West,Online,Laptop Stand,Displays,2,799,3500,Delivered,1598,7000,-5402
+ORD10116,2025-04-13,West,Retail Store,Wireless Mouse,Accessories,8,1299,700,Returned,10392,5600,4792
+ORD10117,2025-01-07,South,Marketplace,Webcam,Displays,11,2499,150,Delivered,27489,1650,25839
+ORD10118,2025-01-26,South,Retail Store,USB Hub,Peripherals,1,2499,400,Delivered,2499,400,2099
+ORD10119,2025-02-14,North,Marketplace,Laptop Stand,Peripherals,8,299,700,Delivered,2392,5600,-3208
+ORD10120,2025-01-21,North,Retail Store,Docking Station,Displays,11,8999,150,Delivered,98989,1650,97339
+ORD10121,2025-03-21,East,Online,Keyboard,Displays,10,2499,5500,Delivered,24990,55000,-30010
+ORD10122,2025-05-01,East,Online,Laptop Stand,Displays,5,8999,250,Delivered,44995,1250,43745
+ORD10123,2025-04-29,North,Online,Docking Station,Peripherals,2,1299,400,Delivered,2598,800,1798
+ORD10124,2025-03-27,East,Online,Laptop Stand,Peripherals,11,2499,700,Delivered,27489,7700,19789
+ORD10125,2025-06-04,West,Marketplace,USB Hub,Displays,11,1299,3500,Delivered,14289,38500,-24211
+ORD10126,2025-04-13,South,Marketplace,Docking Station,Accessories,7,8999,3500,Delivered,62993,24500,38493
+ORD10127,2025-01-15,South,Marketplace,USB Hub,Accessories,11,5999,3500,Delivered,65989,38500,27489
+ORD10128,2025-05-19,South,Retail Store,USB Hub,Peripherals,1,8999,250,Delivered,8999,250,8749
+ORD10129,2025-04-15,East,Retail Store,Monitor,Accessories,7,1299,3500,Delivered,9093,24500,-15407
+ORD10130,2025-04-25,South,Retail Store,Wireless Mouse,Accessories,1,5999,3500,Delivered,5999,3500,2499
+ORD10131,2025-04-13,West,Retail Store,USB Hub,Displays,11,799,700,Delivered,8789,7700,1089
+ORD10132,2025-04-11,South,Marketplace,Docking Station,Displays,8,1299,700,Delivered,10392,5600,4792
+ORD10133,2025-01-17,East,Marketplace,Laptop Stand,Peripherals,11,5999,150,Cancelled,65989,1650,64339
+ORD10134,2025-04-12,South,Marketplace,Docking Station,Peripherals,7,299,3500,Returned,2093,24500,-22407
+ORD10135,2025-05-24,North,Retail Store,Monitor,Peripherals,1,2499,5500,Delivered,2499,5500,-3001
+ORD10136,2025-02-25,West,Online,USB Hub,Displays,1,299,700,Delivered,299,700,-401
+ORD10137,2025-04-20,South,Marketplace,Wireless Mouse,Peripherals,4,2499,700,Delivered,9996,2800,7196
+ORD10138,2025-01-06,South,Retail Store,USB Hub,Accessories,9,1299,700,Delivered,11691,6300,5391
+ORD10139,2025-03-04,West,Marketplace,Wireless Mouse,Peripherals,2,1299,150,Delivered,2598,300,2298
+ORD10140,2025-03-21,Central,Retail Store,Keyboard,Peripherals,10,1299,1400,Delivered,12990,14000,-1010
+ORD10141,2025-06-27,West,Marketplace,Headset,Displays,3,1299,3500,Returned,3897,10500,-6603
+ORD10142,2025-02-08,Central,Retail Store,Laptop Stand,Displays,6,799,5500,Delivered,4794,33000,-28206
+ORD10143,2025-02-20,Central,Marketplace,Monitor,Displays,3,1299,5500,Delivered,3897,16500,-12603
+ORD10144,2025-03-15,East,Marketplace,USB Hub,Peripherals,6,1299,700,Delivered,7794,4200,3594
+ORD10145,2025-06-29,West,Online,Wireless Mouse,Peripherals,5,5999,5500,Delivered,29995,27500,2495
+ORD10146,2025-06-04,South,Retail Store,Keyboard,Peripherals,1,1299,700,Returned,1299,700,599
+ORD10147,2025-01-07,East,Retail Store,Keyboard,Accessories,7,2499,1400,Delivered,17493,9800,7693
+ORD10148,2025-02-12,East,Marketplace,Headset,Displays,9,5999,1400,Cancelled,53991,12600,41391
+ORD10149,2025-05-29,Central,Marketplace,Docking Station,Displays,11,8999,5500,Delivered,98989,60500,38489
+ORD10150,2025-01-11,Central,Marketplace,Webcam,Displays,4,299,3500,Delivered,1196,14000,-12804
+ORD10151,2025-06-04,East,Retail Store,Wireless Mouse,Accessories,10,2499,150,Delivered,24990,1500,23490
+ORD10152,2025-02-20,West,Retail Store,Laptop Stand,Accessories,10,499,150,Delivered,4990,1500,3490
+ORD10153,2025-06-16,South,Retail Store,Laptop Stand,Displays,11,499,400,Delivered,5489,4400,1089
+ORD10154,2025-02-23,Central,Marketplace,USB Hub,Peripherals,5,5999,700,Delivered,29995,3500,26495
+ORD10155,2025-03-20,East,Online,Wireless Mouse,Displays,10,299,1400,Delivered,2990,14000,-11010
+ORD10156,2025-04-30,East,Retail Store,Wireless Mouse,Peripherals,7,5999,700,Delivered,41993,4900,37093
+ORD10157,2025-01-23,West,Online,Webcam,Peripherals,1,5999,700,Delivered,5999,700,5299
+ORD10158,2025-04-11,West,Marketplace,Webcam,Peripherals,3,8999,5500,Delivered,26997,16500,10497
+ORD10159,2025-04-02,North,Retail Store,Webcam,Displays,8,2499,400,Delivered,19992,3200,16792
+ORD10160,2025-05-22,South,Retail Store,Keyboard,Peripherals,2,8999,700,Delivered,17998,1400,16598
+ORD10161,2025-06-30,North,Retail Store,USB Hub,Displays,5,299,700,Delivered,1495,3500,-2005
+ORD10162,2025-05-01,West,Retail Store,USB Hub,Accessories,9,8999,700,Delivered,80991,6300,74691
+ORD10163,2025-03-16,North,Marketplace,Wireless Mouse,Peripherals,2,499,5500,Delivered,998,11000,-10002
+ORD10164,2025-03-15,South,Retail Store,USB Hub,Displays,6,799,5500,Delivered,4794,33000,-28206
+ORD10165,2025-03-17,East,Retail Store,USB Hub,Displays,3,299,700,Delivered,897,2100,-1203
+ORD10166,2025-05-28,West,Online,Monitor,Displays,6,799,700,Delivered,4794,4200,594
+ORD10167,2025-02-28,East,Online,Webcam,Accessories,3,5999,1400,Returned,17997,4200,13797
+ORD10168,2025-01-31,Central,Retail Store,Headset,Displays,11,499,250,Delivered,5489,2750,2739
+ORD10169,2025-03-02,Central,Marketplace,USB Hub,Displays,1,5999,400,Delivered,5999,400,5599
+ORD10170,2025-01-05,North,Marketplace,Headset,Displays,11,2499,250,Delivered,27489,2750,24739
+ORD10171,2025-01-20,Central,Retail Store,Webcam,Accessories,9,2499,250,Delivered,22491,2250,20241
+ORD10172,2025-01-17,West,Retail Store,USB Hub,Displays,10,8999,150,Delivered,89990,1500,88490
+ORD10173,2025-05-20,West,Retail Store,Keyboard,Displays,10,1299,1400,Delivered,12990,14000,-1010
+ORD10174,2025-05-11,North,Online,Webcam,Displays,3,799,150,Delivered,2397,450,1947
+ORD10175,2025-05-07,West,Online,Headset,Accessories,11,8999,1400,Delivered,98989,15400,83589
+ORD10176,2025-03-25,West,Retail Store,Docking Station,Displays,7,1299,700,Delivered,9093,4900,4193
+ORD10177,2025-05-10,East,Online,Wireless Mouse,Accessories,11,2499,400,Delivered,27489,4400,23089
+ORD10178,2025-01-30,North,Online,Monitor,Peripherals,10,799,3500,Delivered,7990,35000,-27010
+ORD10179,2025-06-13,East,Online,Docking Station,Peripherals,7,499,700,Delivered,3493,4900,-1407
+ORD10180,2025-04-01,Central,Online,USB Hub,Peripherals,5,499,3500,Cancelled,2495,17500,-15005
+ORD10181,2025-06-19,West,Retail Store,Docking Station,Displays,2,499,1400,Delivered,998,2800,-1802
+ORD10182,2025-01-28,North,Marketplace,Laptop Stand,Accessories,2,499,150,Cancelled,998,300,698
+ORD10183,2025-04-01,Central,Marketplace,Laptop Stand,Peripherals,5,5999,250,Delivered,29995,1250,28745
+ORD10184,2025-05-07,Central,Retail Store,Webcam,Peripherals,9,299,700,Delivered,2691,6300,-3609
+ORD10185,2025-03-31,North,Retail Store,Keyboard,Peripherals,6,2499,5500,Delivered,14994,33000,-18006
+ORD10186,2025-03-22,Central,Online,USB Hub,Accessories,6,8999,250,Delivered,53994,1500,52494
+ORD10187,2025-01-31,East,Online,Monitor,Accessories,3,5999,150,Delivered,17997,450,17547
+ORD10188,2025-03-10,East,Retail Store,Monitor,Accessories,7,799,5500,Delivered,5593,38500,-32907
+ORD10189,2025-02-13,East,Retail Store,Docking Station,Peripherals,8,299,5500,Delivered,2392,44000,-41608
+ORD10190,2025-02-24,West,Online,Laptop Stand,Peripherals,11,5999,250,Returned,65989,2750,63239
+ORD10191,2025-05-04,Central,Retail Store,Webcam,Peripherals,9,299,400,Delivered,2691,3600,-909
+ORD10192,2025-04-25,West,Online,Docking Station,Peripherals,7,2499,1400,Delivered,17493,9800,7693
+ORD10193,2025-04-20,Central,Online,Headset,Accessories,11,2499,250,Delivered,27489,2750,24739
+ORD10194,2025-03-07,Central,Marketplace,Monitor,Accessories,5,499,400,Delivered,2495,2000,495
+ORD10195,2025-06-23,North,Retail Store,Wireless Mouse,Peripherals,11,5999,400,Delivered,65989,4400,61589
+ORD10196,2025-01-16,South,Retail Store,Headset,Displays,5,499,1400,Delivered,2495,7000,-4505
+ORD10197,2025-03-04,West,Marketplace,Monitor,Accessories,2,499,400,Delivered,998,800,198
+ORD10198,2025-01-22,East,Marketplace,Wireless Mouse,Displays,5,5999,400,Delivered,29995,2000,27995
+ORD10199,2025-03-03,North,Marketplace,Keyboard,Peripherals,2,8999,400,Delivered,17998,800,17198
+ORD10200,2025-06-24,North,Retail Store,Docking Station,Accessories,2,499,3500,Delivered,998,7000,-6002
+ORD10201,2025-03-08,East,Marketplace,Keyboard,Peripherals,10,8999,250,Delivered,89990,2500,87490
+ORD10202,2025-06-14,West,Retail Store,Wireless Mouse,Accessories,9,8999,250,Returned,80991,2250,78741
+ORD10203,2025-03-31,North,Marketplace,Headset,Accessories,3,5999,250,Returned,17997,750,17247
+ORD10204,2025-05-07,North,Marketplace,Wireless Mouse,Peripherals,10,299,5500,Delivered,2990,55000,-52010
+ORD10205,2025-03-24,North,Retail Store,Docking Station,Peripherals,1,799,5500,Delivered,799,5500,-4701
+ORD10206,2025-02-18,East,Marketplace,Webcam,Displays,4,2499,700,Delivered,9996,2800,7196
+ORD10207,2025-05-19,North,Retail Store,Docking Station,Accessories,8,8999,250,Delivered,71992,2000,69992
+ORD10208,2025-06-25,East,Marketplace,Docking Station,Displays,4,5999,3500,Delivered,23996,14000,9996
+ORD10209,2025-02-17,East,Online,Wireless Mouse,Accessories,9,799,700,Delivered,7191,6300,891
+ORD10210,2025-05-21,East,Marketplace,Wireless Mouse,Accessories,10,499,3500,Delivered,4990,35000,-30010
+ORD10211,2025-02-17,West,Retail Store,Keyboard,Displays,1,8999,400,Cancelled,8999,400,8599
+ORD10212,2025-05-10,East,Marketplace,Monitor,Displays,1,499,5500,Delivered,499,5500,-5001
+ORD10213,2025-05-23,West,Retail Store,Docking Station,Peripherals,11,799,3500,Delivered,8789,38500,-29711
+ORD10214,2025-03-23,West,Marketplace,Headset,Accessories,6,8999,250,Delivered,53994,1500,52494
+ORD10215,2025-05-14,Central,Online,Headset,Accessories,6,1299,3500,Returned,7794,21000,-13206
+ORD10216,2025-02-19,West,Online,Docking Station,Peripherals,6,499,400,Delivered,2994,2400,594
+ORD10217,2025-01-15,East,Retail Store,Headset,Peripherals,5,299,400,Delivered,1495,2000,-505
+ORD10218,2025-01-18,East,Marketplace,Monitor,Displays,8,1299,250,Returned,10392,2000,8392
+ORD10219,2025-03-22,South,Marketplace,Monitor,Accessories,7,8999,1400,Returned,62993,9800,53193
+ORD10220,2025-06-13,East,Retail Store,USB Hub,Accessories,2,1299,250,Delivered,2598,500,2098
+ORD10221,2025-01-24,North,Retail Store,Laptop Stand,Displays,7,2499,1400,Delivered,17493,9800,7693
+ORD10222,2025-03-24,Central,Retail Store,Headset,Accessories,8,499,1400,Delivered,3992,11200,-7208
+ORD10223,2025-05-08,Central,Marketplace,Headset,Accessories,2,5999,3500,Delivered,11998,7000,4998
+ORD10224,2025-02-06,North,Retail Store,Headset,Peripherals,5,5999,5500,Delivered,29995,27500,2495
+ORD10225,2025-05-11,West,Retail Store,USB Hub,Peripherals,9,2499,150,Returned,22491,1350,21141
+ORD10226,2025-02-25,North,Marketplace,Webcam,Peripherals,7,5999,5500,Delivered,41993,38500,3493
+ORD10227,2025-05-27,West,Online,Docking Station,Displays,2,2499,150,Delivered,4998,300,4698
+ORD10228,2025-04-15,North,Marketplace,USB Hub,Displays,1,799,700,Delivered,799,700,99
+ORD10229,2025-04-09,East,Online,Monitor,Accessories,7,5999,400,Delivered,41993,2800,39193
+ORD10230,2025-02-01,West,Online,Laptop Stand,Displays,6,5999,1400,Delivered,35994,8400,27594
+ORD10231,2025-03-25,West,Marketplace,Webcam,Peripherals,11,5999,3500,Delivered,65989,38500,27489
+ORD10232,2025-06-05,East,Marketplace,Docking Station,Accessories,6,499,5500,Delivered,2994,33000,-30006
+ORD10233,2025-01-04,Central,Marketplace,Headset,Displays,11,2499,400,Delivered,27489,4400,23089
+ORD10234,2025-05-18,West,Marketplace,Webcam,Accessories,3,299,5500,Returned,897,16500,-15603
+ORD10235,2025-03-31,South,Retail Store,Webcam,Peripherals,5,2499,400,Delivered,12495,2000,10495
+ORD10236,2025-05-11,West,Retail Store,Webcam,Displays,2,1299,250,Delivered,2598,500,2098
+ORD10237,2025-05-01,West,Online,USB Hub,Accessories,7,799,400,Delivered,5593,2800,2793
+ORD10238,2025-03-20,South,Online,Laptop Stand,Accessories,3,8999,700,Delivered,26997,2100,24897
+ORD10239,2025-02-25,West,Online,Laptop Stand,Peripherals,6,8999,1400,Delivered,53994,8400,45594
+ORD10240,2025-04-24,Central,Online,Wireless Mouse,Displays,4,299,3500,Delivered,1196,14000,-12804
+ORD10241,2025-01-26,Central,Retail Store,Monitor,Accessories,3,499,250,Delivered,1497,750,747
+ORD10242,2025-04-16,West,Marketplace,Headset,Peripherals,2,499,400,Delivered,998,800,198
+ORD10243,2025-01-18,West,Marketplace,Monitor,Peripherals,6,8999,5500,Delivered,53994,33000,20994
+ORD10244,2025-04-28,South,Retail Store,Laptop Stand,Accessories,11,1299,700,Delivered,14289,7700,6589
+ORD10245,2025-04-24,West,Marketplace,Wireless Mouse,Displays,3,5999,250,Delivered,17997,750,17247
+ORD10246,2025-01-16,South,Marketplace,Docking Station,Displays,5,5999,5500,Delivered,29995,27500,2495
+ORD10247,2025-05-18,East,Marketplace,Docking Station,Peripherals,3,5999,700,Delivered,17997,2100,15897
+ORD10248,2025-03-17,South,Retail Store,Monitor,Accessories,9,299,5500,Delivered,2691,49500,-46809
+ORD10249,2025-05-23,South,Online,Webcam,Accessories,5,299,5500,Delivered,1495,27500,-26005
+ORD10250,2025-01-08,North,Marketplace,Headset,Peripherals,11,799,5500,Delivered,8789,60500,-51711
+ORD10251,2025-02-02,Central,Online,Docking Station,Peripherals,3,799,1400,Delivered,2397,4200,-1803
+ORD10252,2025-03-31,North,Retail Store,Docking Station,Peripherals,1,5999,3500,Delivered,5999,3500,2499
+ORD10253,2025-02-04,North,Online,Headset,Accessories,7,499,5500,Delivered,3493,38500,-35007
+ORD10254,2025-03-01,Central,Marketplace,Monitor,Peripherals,8,799,250,Delivered,6392,2000,4392
+ORD10255,2025-04-30,East,Retail Store,Headset,Accessories,11,499,150,Cancelled,5489,1650,3839
+ORD10256,2025-01-27,East,Online,Keyboard,Displays,10,499,400,Delivered,4990,4000,990
+ORD10257,2025-05-03,West,Online,Keyboard,Displays,10,499,1400,Returned,4990,14000,-9010
+ORD10258,2025-01-19,South,Retail Store,USB Hub,Peripherals,7,499,700,Delivered,3493,4900,-1407
+ORD10259,2025-02-01,North,Retail Store,USB Hub,Accessories,4,1299,150,Delivered,5196,600,4596
+ORD10260,2025-04-17,West,Marketplace,USB Hub,Displays,5,799,700,Delivered,3995,3500,495
+ORD10261,2025-05-24,North,Online,Monitor,Accessories,2,1299,250,Delivered,2598,500,2098
+ORD10262,2025-01-31,East,Marketplace,Monitor,Displays,5,1299,700,Cancelled,6495,3500,2995
+ORD10263,2025-02-24,Central,Retail Store,Laptop Stand,Accessories,5,5999,1400,Delivered,29995,7000,22995
+ORD10264,2025-06-17,Central,Marketplace,USB Hub,Peripherals,1,8999,1400,Delivered,8999,1400,7599
+ORD10265,2025-06-29,South,Online,USB Hub,Accessories,3,1299,400,Delivered,3897,1200,2697
+ORD10266,2025-04-16,West,Online,Docking Station,Accessories,6,2499,400,Delivered,14994,2400,12594
+ORD10267,2025-03-22,West,Online,USB Hub,Displays,5,5999,1400,Delivered,29995,7000,22995
+ORD10268,2025-03-04,East,Retail Store,Monitor,Displays,11,2499,3500,Delivered,27489,38500,-11011
+ORD10269,2025-04-21,North,Marketplace,Laptop Stand,Accessories,6,299,3500,Delivered,1794,21000,-19206
+ORD10270,2025-04-17,South,Online,Wireless Mouse,Displays,11,8999,400,Delivered,98989,4400,94589
+ORD10271,2025-02-23,West,Retail Store,Keyboard,Accessories,8,499,400,Delivered,3992,3200,792
+ORD10272,2025-01-05,Central,Online,Monitor,Accessories,1,799,400,Delivered,799,400,399
+ORD10273,2025-01-28,North,Marketplace,Keyboard,Accessories,3,2499,700,Delivered,7497,2100,5397
+ORD10274,2025-06-23,West,Marketplace,Monitor,Peripherals,8,799,150,Delivered,6392,1200,5192
+ORD10275,2025-03-17,Central,Marketplace,Webcam,Accessories,6,499,700,Delivered,2994,4200,-1206
+ORD10276,2025-03-29,Central,Marketplace,Wireless Mouse,Peripherals,4,8999,250,Delivered,35996,1000,34996
+ORD10277,2025-03-26,East,Retail Store,Keyboard,Accessories,6,299,700,Delivered,1794,4200,-2406
+ORD10278,2025-05-22,North,Marketplace,Wireless Mouse,Accessories,10,499,3500,Delivered,4990,35000,-30010
+ORD10279,2025-01-12,South,Online,Keyboard,Peripherals,5,8999,5500,Delivered,44995,27500,17495
+ORD10280,2025-01-15,Central,Marketplace,Headset,Displays,1,5999,700,Delivered,5999,700,5299
+ORD10281,2025-02-19,Central,Marketplace,Laptop Stand,Displays,4,299,150,Delivered,1196,600,596
+ORD10282,2025-03-30,West,Marketplace,Keyboard,Peripherals,11,5999,250,Delivered,65989,2750,63239
+ORD10283,2025-05-02,North,Retail Store,Laptop Stand,Accessories,9,8999,150,Delivered,80991,1350,79641
+ORD10284,2025-03-30,North,Marketplace,Docking Station,Displays,10,299,3500,Delivered,2990,35000,-32010
+ORD10285,2025-03-21,East,Retail Store,Headset,Displays,11,799,5500,Delivered,8789,60500,-51711
+ORD10286,2025-06-19,East,Online,Wireless Mouse,Displays,2,1299,700,Delivered,2598,1400,1198
+ORD10287,2025-01-30,North,Marketplace,Wireless Mouse,Displays,4,299,250,Returned,1196,1000,196
+ORD10288,2025-04-14,West,Online,Laptop Stand,Displays,1,499,150,Delivered,499,150,349
+ORD10289,2025-04-09,East,Online,Monitor,Displays,1,499,5500,Delivered,499,5500,-5001
+ORD10290,2025-03-27,North,Retail Store,Webcam,Peripherals,10,499,400,Delivered,4990,4000,990
+ORD10291,2025-05-27,North,Online,USB Hub,Peripherals,11,799,150,Cancelled,8789,1650,7139
+ORD10292,2025-02-18,East,Marketplace,Docking Station,Accessories,2,1299,250,Delivered,2598,500,2098
+ORD10293,2025-06-22,West,Retail Store,Keyboard,Accessories,8,499,250,Delivered,3992,2000,1992
+ORD10294,2025-03-02,Central,Online,Keyboard,Displays,6,799,1400,Delivered,4794,8400,-3606
+ORD10295,2025-04-09,East,Marketplace,Monitor,Displays,1,499,5500,Delivered,499,5500,-5001
+ORD10296,2025-04-05,South,Retail Store,Wireless Mouse,Displays,11,5999,250,Delivered,65989,2750,63239
+ORD10297,2025-06-03,Central,Online,Docking Station,Accessories,10,499,1400,Delivered,4990,14000,-9010
+ORD10298,2025-03-21,East,Marketplace,Wireless Mouse,Peripherals,7,8999,150,Delivered,62993,1050,61943
+ORD10299,2025-02-21,South,Retail Store,Monitor,Accessories,8,1299,150,Delivered,10392,1200,9192
+ORD10300,2025-01-04,East,Online,USB Hub,Displays,5,5999,150,Delivered,29995,750,29245
+ORD10301,2025-03-07,North,Marketplace,Laptop Stand,Accessories,9,2499,5500,Returned,22491,49500,-27009
+ORD10302,2025-05-30,South,Retail Store,Monitor,Accessories,5,499,1400,Delivered,2495,7000,-4505
+ORD10303,2025-01-02,East,Marketplace,Monitor,Peripherals,11,2499,3500,Delivered,27489,38500,-11011
+ORD10304,2025-06-12,Central,Marketplace,Keyboard,Displays,1,499,150,Delivered,499,150,349
+ORD10305,2025-04-09,West,Retail Store,Wireless Mouse,Displays,2,299,150,Delivered,598,300,298
+ORD10306,2025-01-26,West,Marketplace,Laptop Stand,Accessories,11,499,3500,Delivered,5489,38500,-33011
+ORD10307,2025-02-24,East,Online,Laptop Stand,Accessories,4,499,150,Delivered,1996,600,1396
+ORD10308,2025-04-11,North,Online,Monitor,Accessories,4,299,250,Delivered,1196,1000,196
+ORD10309,2025-02-27,South,Retail Store,Laptop Stand,Accessories,9,299,700,Delivered,2691,6300,-3609
+ORD10310,2025-01-20,Central,Marketplace,Docking Station,Peripherals,3,8999,1400,Returned,26997,4200,22797
+ORD10311,2025-05-01,North,Retail Store,Wireless Mouse,Accessories,6,1299,250,Cancelled,7794,1500,6294
+ORD10312,2025-05-02,Central,Retail Store,Headset,Accessories,4,799,700,Delivered,3196,2800,396
+ORD10313,2025-01-22,West,Marketplace,Headset,Peripherals,3,8999,1400,Delivered,26997,4200,22797
+ORD10314,2025-02-20,South,Marketplace,Monitor,Accessories,11,499,700,Delivered,5489,7700,-2211
+ORD10315,2025-02-14,West,Marketplace,Docking Station,Accessories,3,799,400,Delivered,2397,1200,1197
+ORD10316,2025-04-30,Central,Online,Laptop Stand,Accessories,2,5999,150,Delivered,11998,300,11698
+ORD10317,2025-05-13,North,Marketplace,Wireless Mouse,Accessories,8,2499,700,Delivered,19992,5600,14392
+ORD10318,2025-05-12,North,Retail Store,Keyboard,Peripherals,10,799,3500,Delivered,7990,35000,-27010
+ORD10319,2025-06-19,West,Retail Store,Wireless Mouse,Displays,2,499,1400,Delivered,998,2800,-1802
+ORD10320,2025-05-20,Central,Retail Store,Keyboard,Displays,8,299,5500,Returned,2392,44000,-41608
+ORD10321,2025-02-28,North,Online,Keyboard,Accessories,6,299,150,Delivered,1794,900,894
+ORD10322,2025-01-20,West,Online,Webcam,Accessories,10,499,150,Delivered,4990,1500,3490
+ORD10323,2025-04-22,North,Retail Store,Keyboard,Peripherals,2,5999,700,Delivered,11998,1400,10598
+ORD10324,2025-06-15,West,Marketplace,Docking Station,Peripherals,11,2499,250,Delivered,27489,2750,24739
+ORD10325,2025-06-26,West,Marketplace,Webcam,Displays,7,1299,1400,Delivered,9093,9800,-707
+ORD10326,2025-02-11,North,Online,Docking Station,Displays,10,5999,5500,Cancelled,59990,55000,4990
+ORD10327,2025-02-12,West,Marketplace,Laptop Stand,Peripherals,4,499,400,Delivered,1996,1600,396
+ORD10328,2025-01-07,Central,Online,Docking Station,Accessories,11,499,700,Delivered,5489,7700,-2211
+ORD10329,2025-01-26,Central,Marketplace,USB Hub,Accessories,7,799,1400,Delivered,5593,9800,-4207
+ORD10330,2025-04-11,North,Retail Store,Docking Station,Accessories,2,8999,250,Delivered,17998,500,17498
+ORD10331,2025-04-09,South,Retail Store,Keyboard,Accessories,11,2499,5500,Delivered,27489,60500,-33011
+ORD10332,2025-03-09,South,Marketplace,Docking Station,Displays,9,5999,250,Delivered,53991,2250,51741
+ORD10333,2025-02-26,East,Retail Store,USB Hub,Accessories,4,499,3500,Delivered,1996,14000,-12004
+ORD10334,2025-05-31,North,Marketplace,Laptop Stand,Displays,7,5999,1400,Delivered,41993,9800,32193
+ORD10335,2025-03-25,Central,Retail Store,Monitor,Peripherals,5,299,150,Delivered,1495,750,745
+ORD10336,2025-05-27,West,Marketplace,Wireless Mouse,Peripherals,6,499,3500,Delivered,2994,21000,-18006
+ORD10337,2025-06-24,Central,Retail Store,Docking Station,Peripherals,11,1299,250,Delivered,14289,2750,11539
+ORD10338,2025-02-27,North,Online,Keyboard,Displays,10,299,1400,Delivered,2990,14000,-11010
+ORD10339,2025-02-06,North,Marketplace,Wireless Mouse,Accessories,3,8999,5500,Delivered,26997,16500,10497
+ORD10340,2025-06-22,Central,Retail Store,USB Hub,Accessories,11,8999,5500,Delivered,98989,60500,38489
+ORD10341,2025-04-25,South,Retail Store,Monitor,Peripherals,5,1299,5500,Delivered,6495,27500,-21005
+ORD10342,2025-02-22,West,Online,Laptop Stand,Peripherals,8,799,700,Delivered,6392,5600,792
+ORD10343,2025-04-23,Central,Online,Webcam,Peripherals,9,299,700,Delivered,2691,6300,-3609
+ORD10344,2025-04-04,North,Retail Store,Webcam,Displays,6,2499,400,Delivered,14994,2400,12594
+ORD10345,2025-06-13,North,Online,Headset,Peripherals,6,1299,5500,Delivered,7794,33000,-25206
+ORD10346,2025-02-16,North,Marketplace,USB Hub,Accessories,6,5999,700,Delivered,35994,4200,31794
+ORD10347,2025-06-29,North,Marketplace,Monitor,Accessories,10,2499,3500,Delivered,24990,35000,-10010
+ORD10348,2025-06-19,North,Marketplace,USB Hub,Displays,5,299,400,Delivered,1495,2000,-505
+ORD10349,2025-02-02,Central,Marketplace,USB Hub,Accessories,4,299,3500,Delivered,1196,14000,-12804
+ORD10350,2025-01-30,West,Retail Store,Wireless Mouse,Peripherals,4,5999,250,Delivered,23996,1000,22996
+ORD10351,2025-04-07,Central,Online,Laptop Stand,Peripherals,3,499,3500,Delivered,1497,10500,-9003
+ORD10352,2025-01-09,Central,Retail Store,Keyboard,Displays,5,8999,150,Delivered,44995,750,44245
+ORD10353,2025-02-24,Central,Retail Store,Monitor,Displays,2,299,150,Delivered,598,300,298
+ORD10354,2025-03-20,South,Marketplace,Wireless Mouse,Peripherals,1,5999,400,Delivered,5999,400,5599
+ORD10355,2025-06-25,South,Online,Laptop Stand,Accessories,8,8999,700,Delivered,71992,5600,66392
+ORD10356,2025-06-29,Central,Retail Store,Webcam,Peripherals,1,1299,1400,Delivered,1299,1400,-101
+ORD10357,2025-01-28,South,Retail Store,Keyboard,Peripherals,7,299,400,Delivered,2093,2800,-707
+ORD10358,2025-06-11,North,Online,USB Hub,Accessories,9,8999,150,Delivered,80991,1350,79641
+ORD10359,2025-01-17,West,Online,USB Hub,Peripherals,8,499,400,Cancelled,3992,3200,792
+ORD10360,2025-05-16,Central,Retail Store,Headset,Accessories,5,1299,700,Delivered,6495,3500,2995
+ORD10361,2025-06-03,Central,Online,Headset,Peripherals,3,8999,700,Delivered,26997,2100,24897
+ORD10362,2025-06-11,Central,Online,Keyboard,Displays,11,5999,1400,Delivered,65989,15400,50589
+ORD10363,2025-02-10,North,Retail Store,Webcam,Displays,10,299,250,Delivered,2990,2500,490
+ORD10364,2025-06-11,West,Online,Keyboard,Accessories,7,5999,1400,Returned,41993,9800,32193
+ORD10365,2025-01-21,Central,Retail Store,Webcam,Displays,1,499,1400,Delivered,499,1400,-901
+ORD10366,2025-04-04,West,Online,Monitor,Accessories,1,5999,3500,Delivered,5999,3500,2499
+ORD10367,2025-03-26,Central,Online,Laptop Stand,Peripherals,4,2499,700,Delivered,9996,2800,7196
+ORD10368,2025-02-27,Central,Retail Store,Webcam,Accessories,2,799,3500,Delivered,1598,7000,-5402
+ORD10369,2025-01-05,East,Marketplace,Laptop Stand,Accessories,10,799,250,Delivered,7990,2500,5490
+ORD10370,2025-05-20,North,Retail Store,Webcam,Accessories,3,299,1400,Delivered,897,4200,-3303
+ORD10371,2025-03-02,East,Marketplace,Laptop Stand,Accessories,4,8999,150,Delivered,35996,600,35396
+ORD10372,2025-04-30,South,Retail Store,Wireless Mouse,Displays,11,499,150,Delivered,5489,1650,3839
+ORD10373,2025-03-16,North,Retail Store,USB Hub,Accessories,10,799,5500,Delivered,7990,55000,-47010
+ORD10374,2025-03-09,North,Retail Store,Docking Station,Peripherals,3,1299,700,Delivered,3897,2100,1797
+ORD10375,2025-06-10,West,Marketplace,Monitor,Displays,5,2499,1400,Delivered,12495,7000,5495
+ORD10376,2025-01-18,East,Marketplace,Laptop Stand,Displays,6,1299,1400,Delivered,7794,8400,-606
+ORD10377,2025-05-14,East,Marketplace,Wireless Mouse,Displays,8,1299,1400,Delivered,10392,11200,-808
+ORD10378,2025-05-16,West,Marketplace,Docking Station,Accessories,11,2499,250,Delivered,27489,2750,24739
+ORD10379,2025-03-10,East,Retail Store,Headset,Displays,10,8999,250,Delivered,89990,2500,87490
+ORD10380,2025-02-17,West,Retail Store,Laptop Stand,Peripherals,11,799,150,Delivered,8789,1650,7139
+ORD10381,2025-01-01,North,Marketplace,Monitor,Accessories,1,5999,5500,Delivered,5999,5500,499
+ORD10382,2025-06-19,Central,Online,Keyboard,Peripherals,3,5999,250,Delivered,17997,750,17247
+ORD10383,2025-06-21,East,Retail Store,Wireless Mouse,Displays,7,8999,1400,Delivered,62993,9800,53193
+ORD10384,2025-02-13,North,Marketplace,Webcam,Peripherals,1,8999,700,Delivered,8999,700,8299
+ORD10385,2025-01-06,Central,Retail Store,USB Hub,Accessories,4,5999,250,Delivered,23996,1000,22996
+ORD10386,2025-01-23,West,Online,Wireless Mouse,Displays,2,499,400,Delivered,998,800,198
+ORD10387,2025-01-13,North,Retail Store,Headset,Displays,11,5999,150,Cancelled,65989,1650,64339
+ORD10388,2025-05-31,North,Online,Monitor,Displays,1,5999,250,Delivered,5999,250,5749
+ORD10389,2025-06-11,North,Marketplace,Laptop Stand,Displays,2,799,150,Delivered,1598,300,1298
+ORD10390,2025-01-28,South,Marketplace,Monitor,Displays,3,2499,3500,Delivered,7497,10500,-3003
+ORD10391,2025-05-16,North,Online,Wireless Mouse,Peripherals,2,499,700,Delivered,998,1400,-402
+ORD10392,2025-02-02,West,Retail Store,Wireless Mouse,Accessories,7,1299,5500,Delivered,9093,38500,-29407
+ORD10393,2025-03-08,East,Marketplace,Docking Station,Peripherals,5,5999,700,Delivered,29995,3500,26495
+ORD10394,2025-04-19,Central,Marketplace,Headset,Accessories,11,499,250,Delivered,5489,2750,2739
+ORD10395,2025-05-11,West,Online,Wireless Mouse,Peripherals,3,799,1400,Delivered,2397,4200,-1803
+ORD10396,2025-06-08,West,Retail Store,Webcam,Peripherals,6,5999,5500,Cancelled,35994,33000,2994
+ORD10397,2025-01-09,East,Retail Store,USB Hub,Displays,8,1299,700,Delivered,10392,5600,4792
+ORD10398,2025-02-05,North,Retail Store,Webcam,Accessories,7,8999,150,Delivered,62993,1050,61943
+ORD10399,2025-02-20,North,Online,Headset,Accessories,9,299,400,Delivered,2691,3600,-909
+ORD10400,2025-02-26,West,Online,Keyboard,Displays,3,5999,5500,Delivered,17997,16500,1497
+ORD10401,2025-06-30,North,Marketplace,USB Hub,Accessories,6,5999,700,Delivered,35994,4200,31794
+ORD10402,2025-05-21,North,Online,USB Hub,Peripherals,9,8999,5500,Delivered,80991,49500,31491
+ORD10403,2025-02-27,South,Online,Headset,Displays,10,499,700,Delivered,4990,7000,-2010
+ORD10404,2025-06-25,Central,Online,Wireless Mouse,Peripherals,7,8999,150,Returned,62993,1050,61943
+ORD10405,2025-04-01,East,Online,Keyboard,Peripherals,8,799,5500,Delivered,6392,44000,-37608
+ORD10406,2025-04-01,West,Online,Wireless Mouse,Displays,10,799,3500,Delivered,7990,35000,-27010
+ORD10407,2025-03-20,East,Retail Store,Keyboard,Peripherals,7,799,3500,Delivered,5593,24500,-18907
+ORD10408,2025-01-27,North,Marketplace,Wireless Mouse,Displays,11,2499,5500,Delivered,27489,60500,-33011
+ORD10409,2025-06-19,South,Online,Laptop Stand,Peripherals,2,2499,250,Delivered,4998,500,4498
+ORD10410,2025-01-03,North,Online,Docking Station,Accessories,4,1299,5500,Returned,5196,22000,-16804
+ORD10411,2025-02-01,West,Online,Laptop Stand,Peripherals,2,299,250,Delivered,598,500,98
+ORD10412,2025-02-11,North,Retail Store,Docking Station,Accessories,1,8999,5500,Cancelled,8999,5500,3499
+ORD10413,2025-02-20,South,Online,Laptop Stand,Displays,6,499,250,Delivered,2994,1500,1494
+ORD10414,2025-01-24,Central,Marketplace,Webcam,Peripherals,3,299,700,Delivered,897,2100,-1203
+ORD10415,2025-01-04,East,Retail Store,Keyboard,Peripherals,5,2499,3500,Delivered,12495,17500,-5005
+ORD10416,2025-05-03,East,Marketplace,USB Hub,Peripherals,5,799,150,Delivered,3995,750,3245
+ORD10417,2025-06-25,East,Retail Store,Keyboard,Peripherals,7,2499,150,Delivered,17493,1050,16443
+ORD10418,2025-01-23,West,Retail Store,Monitor,Accessories,11,8999,3500,Delivered,98989,38500,60489
+ORD10419,2025-02-23,South,Marketplace,Monitor,Accessories,10,299,150,Delivered,2990,1500,1490
+ORD10420,2025-04-02,West,Retail Store,USB Hub,Peripherals,5,499,1400,Returned,2495,7000,-4505
+ORD10421,2025-06-17,Central,Marketplace,Monitor,Accessories,4,1299,5500,Delivered,5196,22000,-16804
+ORD10422,2025-05-06,East,Marketplace,USB Hub,Displays,9,5999,1400,Delivered,53991,12600,41391
+ORD10423,2025-05-19,East,Retail Store,Webcam,Accessories,2,2499,700,Delivered,4998,1400,3598
+ORD10424,2025-04-16,North,Marketplace,Monitor,Displays,6,799,400,Delivered,4794,2400,2394
+ORD10425,2025-03-17,South,Online,Keyboard,Peripherals,5,2499,1400,Returned,12495,7000,5495
+ORD10426,2025-02-06,Central,Marketplace,Wireless Mouse,Peripherals,3,8999,1400,Delivered,26997,4200,22797
+ORD10427,2025-06-06,East,Marketplace,Keyboard,Accessories,7,1299,700,Delivered,9093,4900,4193
+ORD10428,2025-05-26,South,Marketplace,Wireless Mouse,Peripherals,4,8999,250,Delivered,35996,1000,34996
+ORD10429,2025-01-05,East,Online,Wireless Mouse,Displays,3,5999,1400,Delivered,17997,4200,13797
+ORD10430,2025-05-10,East,Marketplace,Docking Station,Accessories,8,799,3500,Delivered,6392,28000,-21608
+ORD10431,2025-01-16,East,Retail Store,Laptop Stand,Accessories,2,499,1400,Delivered,998,2800,-1802
+ORD10432,2025-05-14,West,Online,Monitor,Peripherals,8,5999,150,Delivered,47992,1200,46792
+ORD10433,2025-05-30,South,Online,Webcam,Accessories,2,499,1400,Delivered,998,2800,-1802
+ORD10434,2025-01-24,West,Retail Store,Docking Station,Accessories,5,799,3500,Delivered,3995,17500,-13505
+ORD10435,2025-03-20,East,Online,Wireless Mouse,Peripherals,9,499,250,Delivered,4491,2250,2241
+ORD10436,2025-01-23,Central,Online,Wireless Mouse,Peripherals,3,2499,3500,Cancelled,7497,10500,-3003
+ORD10437,2025-04-13,North,Retail Store,Keyboard,Peripherals,9,799,700,Delivered,7191,6300,891
+ORD10438,2025-06-17,North,Retail Store,USB Hub,Displays,8,2499,700,Delivered,19992,5600,14392
+ORD10439,2025-01-15,East,Online,Docking Station,Displays,10,8999,3500,Delivered,89990,35000,54990
+ORD10440,2025-03-13,East,Marketplace,Wireless Mouse,Accessories,2,5999,700,Delivered,11998,1400,10598
+ORD10441,2025-06-26,West,Marketplace,Wireless Mouse,Peripherals,8,8999,700,Cancelled,71992,5600,66392
+ORD10442,2025-02-24,East,Retail Store,Keyboard,Accessories,11,299,400,Delivered,3289,4400,-1111
+ORD10443,2025-01-24,Central,Marketplace,Webcam,Accessories,9,1299,5500,Delivered,11691,49500,-37809
+ORD10444,2025-03-30,East,Retail Store,Laptop Stand,Accessories,3,499,5500,Delivered,1497,16500,-15003
+ORD10445,2025-04-03,North,Online,Monitor,Peripherals,10,8999,150,Delivered,89990,1500,88490
+ORD10446,2025-04-30,North,Online,Laptop Stand,Displays,2,2499,3500,Delivered,4998,7000,-2002
+ORD10447,2025-02-26,Central,Marketplace,Wireless Mouse,Displays,7,799,150,Delivered,5593,1050,4543
+ORD10448,2025-06-22,North,Marketplace,Docking Station,Peripherals,6,1299,400,Delivered,7794,2400,5394
+ORD10449,2025-04-05,Central,Marketplace,Laptop Stand,Displays,6,2499,5500,Delivered,14994,33000,-18006
+ORD10450,2025-02-21,South,Online,Keyboard,Accessories,6,1299,250,Delivered,7794,1500,6294
+ORD10451,2025-06-23,North,Online,Docking Station,Displays,1,1299,400,Delivered,1299,400,899
+ORD10452,2025-06-17,South,Online,USB Hub,Displays,6,299,250,Delivered,1794,1500,294
+ORD10453,2025-04-01,West,Online,Laptop Stand,Accessories,11,1299,3500,Delivered,14289,38500,-24211
+ORD10454,2025-01-05,East,Online,Monitor,Peripherals,5,799,700,Delivered,3995,3500,495
+ORD10455,2025-04-19,West,Retail Store,Docking Station,Displays,4,5999,1400,Delivered,23996,5600,18396
+ORD10456,2025-04-11,West,Online,Monitor,Peripherals,11,8999,5500,Delivered,98989,60500,38489
+ORD10457,2025-01-27,East,Marketplace,USB Hub,Displays,2,5999,700,Delivered,11998,1400,10598
+ORD10458,2025-04-25,West,Retail Store,USB Hub,Displays,6,299,3500,Delivered,1794,21000,-19206
+ORD10459,2025-06-02,Central,Online,Headset,Peripherals,6,5999,150,Delivered,35994,900,35094
+ORD10460,2025-01-20,East,Retail Store,Wireless Mouse,Accessories,6,799,250,Delivered,4794,1500,3294
+ORD10461,2025-05-11,North,Marketplace,Webcam,Peripherals,11,799,5500,Delivered,8789,60500,-51711
+ORD10462,2025-01-26,East,Online,Docking Station,Accessories,5,8999,5500,Delivered,44995,27500,17495
+ORD10463,2025-05-16,Central,Online,Wireless Mouse,Peripherals,11,8999,1400,Delivered,98989,15400,83589
+ORD10464,2025-03-17,South,Online,Webcam,Peripherals,1,299,400,Delivered,299,400,-101
+ORD10465,2025-01-02,Central,Marketplace,Webcam,Peripherals,9,799,250,Delivered,7191,2250,4941
+ORD10466,2025-06-24,East,Online,Headset,Accessories,7,5999,3500,Delivered,41993,24500,17493
+ORD10467,2025-01-31,West,Retail Store,Keyboard,Accessories,3,1299,3500,Delivered,3897,10500,-6603
+ORD10468,2025-04-18,South,Retail Store,Monitor,Displays,3,499,250,Delivered,1497,750,747
+ORD10469,2025-02-02,Central,Marketplace,Webcam,Accessories,8,1299,1400,Delivered,10392,11200,-808
+ORD10470,2025-06-18,North,Online,Wireless Mouse,Accessories,8,8999,1400,Delivered,71992,11200,60792
+ORD10471,2025-05-14,South,Marketplace,Webcam,Displays,7,499,700,Delivered,3493,4900,-1407
+ORD10472,2025-05-26,East,Marketplace,Docking Station,Accessories,1,5999,5500,Delivered,5999,5500,499
+ORD10473,2025-03-20,East,Retail Store,Headset,Peripherals,7,5999,150,Delivered,41993,1050,40943
+ORD10474,2025-03-26,East,Online,Keyboard,Accessories,11,8999,250,Delivered,98989,2750,96239
+ORD10475,2025-04-25,North,Marketplace,USB Hub,Accessories,1,799,150,Delivered,799,150,649
+ORD10476,2025-05-23,South,Online,Laptop Stand,Peripherals,6,499,1400,Delivered,2994,8400,-5406
+ORD10477,2025-06-03,North,Retail Store,Docking Station,Peripherals,6,1299,1400,Delivered,7794,8400,-606
+ORD10478,2025-01-04,East,Retail Store,Keyboard,Accessories,10,1299,5500,Delivered,12990,55000,-42010
+ORD10479,2025-05-01,South,Online,Laptop Stand,Accessories,4,799,700,Delivered,3196,2800,396
+ORD10480,2025-01-20,East,Retail Store,Webcam,Accessories,6,5999,250,Returned,35994,1500,34494
+ORD10481,2025-02-22,East,Online,Headset,Peripherals,8,5999,700,Delivered,47992,5600,42392
+ORD10482,2025-05-31,West,Online,USB Hub,Displays,1,499,150,Delivered,499,150,349
+ORD10483,2025-02-15,East,Online,Laptop Stand,Accessories,9,5999,1400,Delivered,53991,12600,41391
+ORD10484,2025-05-25,West,Online,Webcam,Accessories,10,499,1400,Delivered,4990,14000,-9010
+ORD10485,2025-03-25,East,Retail Store,Headset,Peripherals,8,799,5500,Delivered,6392,44000,-37608
+ORD10486,2025-02-12,West,Marketplace,Webcam,Peripherals,8,299,400,Delivered,2392,3200,-808
+ORD10487,2025-03-02,West,Online,Webcam,Accessories,9,799,400,Delivered,7191,3600,3591
+ORD10488,2025-04-07,South,Online,Wireless Mouse,Accessories,9,8999,150,Delivered,80991,1350,79641
+ORD10489,2025-05-19,South,Online,Wireless Mouse,Peripherals,10,1299,400,Delivered,12990,4000,8990
+ORD10490,2025-04-20,West,Retail Store,Docking Station,Peripherals,5,2499,700,Delivered,12495,3500,8995
+ORD10491,2025-06-18,South,Online,USB Hub,Peripherals,6,299,3500,Cancelled,1794,21000,-19206
+ORD10492,2025-06-07,East,Retail Store,Monitor,Accessories,8,2499,3500,Delivered,19992,28000,-8008
+ORD10493,2025-05-17,North,Online,Keyboard,Displays,3,799,150,Delivered,2397,450,1947
+ORD10494,2025-04-20,East,Online,Headset,Peripherals,10,5999,250,Returned,59990,2500,57490
+ORD10495,2025-02-22,East,Retail Store,Webcam,Peripherals,9,8999,700,Returned,80991,6300,74691
+ORD10496,2025-03-16,West,Retail Store,Laptop Stand,Accessories,7,1299,400,Delivered,9093,2800,6293
+ORD10497,2025-01-22,East,Retail Store,USB Hub,Displays,4,299,150,Delivered,1196,600,596
+ORD10498,2025-03-09,South,Marketplace,Docking Station,Displays,4,1299,3500,Delivered,5196,14000,-8804
+ORD10499,2025-06-17,Central,Retail Store,Keyboard,Accessories,5,299,3500,Delivered,1495,17500,-16005
+ORD10500,2025-03-19,East,Marketplace,Keyboard,Displays,8,1299,700,Delivered,10392,5600,4792
